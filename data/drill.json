@@ -1,0 +1,5898 @@
+{
+  "allocation": [
+    {
+      "id": "S0",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S1",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S2",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S3",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S4",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S5",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S6",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S7",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S8",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S9",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S10",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S11",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S12",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S13",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S14",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S15",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S16",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S17",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S18",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S19",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S20",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S21",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S22",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S23",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S24",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S25",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S26",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S27",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S28",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S29",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S30",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "S31",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "arm": "新规",
+      "declared_on": "2026-07-28"
+    },
+    {
+      "id": "SX",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "arm": "原价",
+      "declared_on": "2026-07-28"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "E0-0",
+      "visitor": "G0",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E0-1",
+      "visitor": "G1",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-1"
+    },
+    {
+      "id": "E0-2",
+      "visitor": "G2",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-2"
+    },
+    {
+      "id": "E0-3",
+      "visitor": "G3",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-3"
+    },
+    {
+      "id": "E0-4",
+      "visitor": "G4",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E0-5",
+      "visitor": "G5",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-5"
+    },
+    {
+      "id": "E0-6",
+      "visitor": "G6",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-6"
+    },
+    {
+      "id": "E0-7",
+      "visitor": "G7",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-7"
+    },
+    {
+      "id": "E0-8",
+      "visitor": "G8",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E0-9",
+      "visitor": "G9",
+      "shop": "南门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V0-9"
+    },
+    {
+      "id": "E1-0",
+      "visitor": "G10",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E1-1",
+      "visitor": "G11",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-1"
+    },
+    {
+      "id": "E1-2",
+      "visitor": "G12",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-2"
+    },
+    {
+      "id": "E1-3",
+      "visitor": "G13",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-3"
+    },
+    {
+      "id": "E1-4",
+      "visitor": "G14",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E1-5",
+      "visitor": "G15",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-5"
+    },
+    {
+      "id": "E1-6",
+      "visitor": "G16",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-6"
+    },
+    {
+      "id": "E1-7",
+      "visitor": "G17",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-7"
+    },
+    {
+      "id": "E1-8",
+      "visitor": "G18",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E1-9",
+      "visitor": "G19",
+      "shop": "北门",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V1-9"
+    },
+    {
+      "id": "E2-0",
+      "visitor": "G20",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E2-1",
+      "visitor": "G21",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-1"
+    },
+    {
+      "id": "E2-2",
+      "visitor": "G22",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-2"
+    },
+    {
+      "id": "E2-3",
+      "visitor": "G23",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-3"
+    },
+    {
+      "id": "E2-4",
+      "visitor": "G24",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E2-5",
+      "visitor": "G25",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-5"
+    },
+    {
+      "id": "E2-6",
+      "visitor": "G26",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-6"
+    },
+    {
+      "id": "E2-7",
+      "visitor": "G27",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-7"
+    },
+    {
+      "id": "E2-8",
+      "visitor": "G28",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E2-9",
+      "visitor": "G29",
+      "shop": "西柜",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V2-9"
+    },
+    {
+      "id": "E3-0",
+      "visitor": "G30",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E3-1",
+      "visitor": "G31",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-1"
+    },
+    {
+      "id": "E3-2",
+      "visitor": "G32",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-2"
+    },
+    {
+      "id": "E3-3",
+      "visitor": "G33",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-3"
+    },
+    {
+      "id": "E3-4",
+      "visitor": "G34",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E3-5",
+      "visitor": "G35",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-5"
+    },
+    {
+      "id": "E3-6",
+      "visitor": "G36",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-6"
+    },
+    {
+      "id": "E3-7",
+      "visitor": "G37",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-7"
+    },
+    {
+      "id": "E3-8",
+      "visitor": "G38",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E3-9",
+      "visitor": "G39",
+      "shop": "联营",
+      "on": "2026-08-01",
+      "eligible": true,
+      "voucher": "V3-9"
+    },
+    {
+      "id": "E4-0",
+      "visitor": "G40",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E4-1",
+      "visitor": "G41",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-1"
+    },
+    {
+      "id": "E4-2",
+      "visitor": "G42",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-2"
+    },
+    {
+      "id": "E4-3",
+      "visitor": "G43",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-3"
+    },
+    {
+      "id": "E4-4",
+      "visitor": "G44",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E4-5",
+      "visitor": "G45",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-5"
+    },
+    {
+      "id": "E4-6",
+      "visitor": "G46",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-6"
+    },
+    {
+      "id": "E4-7",
+      "visitor": "G47",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-7"
+    },
+    {
+      "id": "E4-8",
+      "visitor": "G48",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E4-9",
+      "visitor": "G49",
+      "shop": "南门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V4-9"
+    },
+    {
+      "id": "E5-0",
+      "visitor": "G50",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E5-1",
+      "visitor": "G51",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-1"
+    },
+    {
+      "id": "E5-2",
+      "visitor": "G52",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-2"
+    },
+    {
+      "id": "E5-3",
+      "visitor": "G53",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-3"
+    },
+    {
+      "id": "E5-4",
+      "visitor": "G54",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E5-5",
+      "visitor": "G55",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-5"
+    },
+    {
+      "id": "E5-6",
+      "visitor": "G56",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-6"
+    },
+    {
+      "id": "E5-7",
+      "visitor": "G57",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-7"
+    },
+    {
+      "id": "E5-8",
+      "visitor": "G58",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E5-9",
+      "visitor": "G59",
+      "shop": "北门",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V5-9"
+    },
+    {
+      "id": "E6-0",
+      "visitor": "G60",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E6-1",
+      "visitor": "G61",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-1"
+    },
+    {
+      "id": "E6-2",
+      "visitor": "G62",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-2"
+    },
+    {
+      "id": "E6-3",
+      "visitor": "G63",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-3"
+    },
+    {
+      "id": "E6-4",
+      "visitor": "G64",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E6-5",
+      "visitor": "G65",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-5"
+    },
+    {
+      "id": "E6-6",
+      "visitor": "G66",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-6"
+    },
+    {
+      "id": "E6-7",
+      "visitor": "G67",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-7"
+    },
+    {
+      "id": "E6-8",
+      "visitor": "G68",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E6-9",
+      "visitor": "G69",
+      "shop": "西柜",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V6-9"
+    },
+    {
+      "id": "E7-0",
+      "visitor": "G70",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E7-1",
+      "visitor": "G71",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-1"
+    },
+    {
+      "id": "E7-2",
+      "visitor": "G72",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-2"
+    },
+    {
+      "id": "E7-3",
+      "visitor": "G73",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-3"
+    },
+    {
+      "id": "E7-4",
+      "visitor": "G74",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E7-5",
+      "visitor": "G75",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-5"
+    },
+    {
+      "id": "E7-6",
+      "visitor": "G76",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-6"
+    },
+    {
+      "id": "E7-7",
+      "visitor": "G77",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-7"
+    },
+    {
+      "id": "E7-8",
+      "visitor": "G78",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E7-9",
+      "visitor": "G79",
+      "shop": "联营",
+      "on": "2026-08-02",
+      "eligible": true,
+      "voucher": "V7-9"
+    },
+    {
+      "id": "E8-0",
+      "visitor": "G80",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-1",
+      "visitor": "G81",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-2",
+      "visitor": "G82",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-3",
+      "visitor": "G83",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-4",
+      "visitor": "G84",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-5",
+      "visitor": "G85",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-6",
+      "visitor": "G86",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-7",
+      "visitor": "G87",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-8",
+      "visitor": "G88",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E8-9",
+      "visitor": "G89",
+      "shop": "南门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E9-0",
+      "visitor": "G90",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E9-1",
+      "visitor": "G91",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-1"
+    },
+    {
+      "id": "E9-2",
+      "visitor": "G92",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-2"
+    },
+    {
+      "id": "E9-3",
+      "visitor": "G93",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-3"
+    },
+    {
+      "id": "E9-4",
+      "visitor": "G94",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E9-5",
+      "visitor": "G95",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-5"
+    },
+    {
+      "id": "E9-6",
+      "visitor": "G96",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-6"
+    },
+    {
+      "id": "E9-7",
+      "visitor": "G97",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-7"
+    },
+    {
+      "id": "E9-8",
+      "visitor": "G98",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E9-9",
+      "visitor": "G99",
+      "shop": "北门",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V9-9"
+    },
+    {
+      "id": "E10-0",
+      "visitor": "G100",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E10-1",
+      "visitor": "G101",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-1"
+    },
+    {
+      "id": "E10-2",
+      "visitor": "G102",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-2"
+    },
+    {
+      "id": "E10-3",
+      "visitor": "G103",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-3"
+    },
+    {
+      "id": "E10-4",
+      "visitor": "G104",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E10-5",
+      "visitor": "G105",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-5"
+    },
+    {
+      "id": "E10-6",
+      "visitor": "G106",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-6"
+    },
+    {
+      "id": "E10-7",
+      "visitor": "G107",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-7"
+    },
+    {
+      "id": "E10-8",
+      "visitor": "G108",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E10-9",
+      "visitor": "G109",
+      "shop": "西柜",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V10-9"
+    },
+    {
+      "id": "E11-0",
+      "visitor": "G110",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E11-1",
+      "visitor": "G111",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-1"
+    },
+    {
+      "id": "E11-2",
+      "visitor": "G112",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-2"
+    },
+    {
+      "id": "E11-3",
+      "visitor": "G113",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-3"
+    },
+    {
+      "id": "E11-4",
+      "visitor": "G114",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E11-5",
+      "visitor": "G115",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-5"
+    },
+    {
+      "id": "E11-6",
+      "visitor": "G116",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-6"
+    },
+    {
+      "id": "E11-7",
+      "visitor": "G117",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-7"
+    },
+    {
+      "id": "E11-8",
+      "visitor": "G118",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E11-9",
+      "visitor": "G119",
+      "shop": "联营",
+      "on": "2026-08-03",
+      "eligible": true,
+      "voucher": "V11-9"
+    },
+    {
+      "id": "E12-0",
+      "visitor": "G120",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E12-1",
+      "visitor": "G121",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-1"
+    },
+    {
+      "id": "E12-2",
+      "visitor": "G122",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-2"
+    },
+    {
+      "id": "E12-3",
+      "visitor": "G123",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-3"
+    },
+    {
+      "id": "E12-4",
+      "visitor": "G124",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E12-5",
+      "visitor": "G125",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-5"
+    },
+    {
+      "id": "E12-6",
+      "visitor": "G126",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-6"
+    },
+    {
+      "id": "E12-7",
+      "visitor": "G127",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-7"
+    },
+    {
+      "id": "E12-8",
+      "visitor": "G128",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E12-9",
+      "visitor": "G129",
+      "shop": "南门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V12-9"
+    },
+    {
+      "id": "E13-0",
+      "visitor": "G130",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E13-1",
+      "visitor": "G131",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-1"
+    },
+    {
+      "id": "E13-2",
+      "visitor": "G132",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-2"
+    },
+    {
+      "id": "E13-3",
+      "visitor": "G133",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-3"
+    },
+    {
+      "id": "E13-4",
+      "visitor": "G134",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E13-5",
+      "visitor": "G135",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-5"
+    },
+    {
+      "id": "E13-6",
+      "visitor": "G136",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-6"
+    },
+    {
+      "id": "E13-7",
+      "visitor": "G137",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-7"
+    },
+    {
+      "id": "E13-8",
+      "visitor": "G138",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E13-9",
+      "visitor": "G139",
+      "shop": "北门",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V13-9"
+    },
+    {
+      "id": "E14-0",
+      "visitor": "G140",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E14-1",
+      "visitor": "G141",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-1"
+    },
+    {
+      "id": "E14-2",
+      "visitor": "G142",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-2"
+    },
+    {
+      "id": "E14-3",
+      "visitor": "G143",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-3"
+    },
+    {
+      "id": "E14-4",
+      "visitor": "G144",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E14-5",
+      "visitor": "G145",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-5"
+    },
+    {
+      "id": "E14-6",
+      "visitor": "G146",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-6"
+    },
+    {
+      "id": "E14-7",
+      "visitor": "G147",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-7"
+    },
+    {
+      "id": "E14-8",
+      "visitor": "G148",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E14-9",
+      "visitor": "G149",
+      "shop": "西柜",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V14-9"
+    },
+    {
+      "id": "E15-0",
+      "visitor": "G150",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E15-1",
+      "visitor": "G151",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-1"
+    },
+    {
+      "id": "E15-2",
+      "visitor": "G152",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-2"
+    },
+    {
+      "id": "E15-3",
+      "visitor": "G153",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-3"
+    },
+    {
+      "id": "E15-4",
+      "visitor": "G154",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E15-5",
+      "visitor": "G155",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-5"
+    },
+    {
+      "id": "E15-6",
+      "visitor": "G156",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-6"
+    },
+    {
+      "id": "E15-7",
+      "visitor": "G157",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-7"
+    },
+    {
+      "id": "E15-8",
+      "visitor": "G158",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E15-9",
+      "visitor": "G159",
+      "shop": "联营",
+      "on": "2026-08-04",
+      "eligible": true,
+      "voucher": "V15-9"
+    },
+    {
+      "id": "E16-0",
+      "visitor": "G160",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E16-1",
+      "visitor": "G161",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-1"
+    },
+    {
+      "id": "E16-2",
+      "visitor": "G162",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-2"
+    },
+    {
+      "id": "E16-3",
+      "visitor": "G163",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-3"
+    },
+    {
+      "id": "E16-4",
+      "visitor": "G164",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E16-5",
+      "visitor": "G165",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-5"
+    },
+    {
+      "id": "E16-6",
+      "visitor": "G166",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-6"
+    },
+    {
+      "id": "E16-7",
+      "visitor": "G167",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-7"
+    },
+    {
+      "id": "E16-8",
+      "visitor": "G168",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E16-9",
+      "visitor": "G169",
+      "shop": "南门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V16-9"
+    },
+    {
+      "id": "E17-0",
+      "visitor": "G170",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E17-1",
+      "visitor": "G171",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-1"
+    },
+    {
+      "id": "E17-2",
+      "visitor": "G172",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-2"
+    },
+    {
+      "id": "E17-3",
+      "visitor": "G173",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-3"
+    },
+    {
+      "id": "E17-4",
+      "visitor": "G174",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E17-5",
+      "visitor": "G175",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-5"
+    },
+    {
+      "id": "E17-6",
+      "visitor": "G176",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-6"
+    },
+    {
+      "id": "E17-7",
+      "visitor": "G177",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-7"
+    },
+    {
+      "id": "E17-8",
+      "visitor": "G178",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E17-9",
+      "visitor": "G179",
+      "shop": "北门",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V17-9"
+    },
+    {
+      "id": "E18-0",
+      "visitor": "G180",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E18-1",
+      "visitor": "G181",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-1"
+    },
+    {
+      "id": "E18-2",
+      "visitor": "G182",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-2"
+    },
+    {
+      "id": "E18-3",
+      "visitor": "G183",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-3"
+    },
+    {
+      "id": "E18-4",
+      "visitor": "G184",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E18-5",
+      "visitor": "G185",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-5"
+    },
+    {
+      "id": "E18-6",
+      "visitor": "G186",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-6"
+    },
+    {
+      "id": "E18-7",
+      "visitor": "G187",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-7"
+    },
+    {
+      "id": "E18-8",
+      "visitor": "G188",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E18-9",
+      "visitor": "G189",
+      "shop": "西柜",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V18-9"
+    },
+    {
+      "id": "E19-0",
+      "visitor": "G190",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E19-1",
+      "visitor": "G191",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-1"
+    },
+    {
+      "id": "E19-2",
+      "visitor": "G192",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-2"
+    },
+    {
+      "id": "E19-3",
+      "visitor": "G193",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-3"
+    },
+    {
+      "id": "E19-4",
+      "visitor": "G194",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E19-5",
+      "visitor": "G195",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-5"
+    },
+    {
+      "id": "E19-6",
+      "visitor": "G196",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-6"
+    },
+    {
+      "id": "E19-7",
+      "visitor": "G197",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-7"
+    },
+    {
+      "id": "E19-8",
+      "visitor": "G198",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E19-9",
+      "visitor": "G199",
+      "shop": "联营",
+      "on": "2026-08-05",
+      "eligible": true,
+      "voucher": "V19-9"
+    },
+    {
+      "id": "E20-0",
+      "visitor": "G200",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E20-1",
+      "visitor": "G201",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-1"
+    },
+    {
+      "id": "E20-2",
+      "visitor": "G202",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-2"
+    },
+    {
+      "id": "E20-3",
+      "visitor": "G203",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-3"
+    },
+    {
+      "id": "E20-4",
+      "visitor": "G204",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E20-5",
+      "visitor": "G205",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-5"
+    },
+    {
+      "id": "E20-6",
+      "visitor": "G206",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-6"
+    },
+    {
+      "id": "E20-7",
+      "visitor": "G207",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-7"
+    },
+    {
+      "id": "E20-8",
+      "visitor": "G208",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E20-9",
+      "visitor": "G209",
+      "shop": "南门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V20-9"
+    },
+    {
+      "id": "E21-0",
+      "visitor": "G210",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E21-1",
+      "visitor": "G211",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-1"
+    },
+    {
+      "id": "E21-2",
+      "visitor": "G212",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-2"
+    },
+    {
+      "id": "E21-3",
+      "visitor": "G213",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-3"
+    },
+    {
+      "id": "E21-4",
+      "visitor": "G214",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E21-5",
+      "visitor": "G215",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-5"
+    },
+    {
+      "id": "E21-6",
+      "visitor": "G216",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-6"
+    },
+    {
+      "id": "E21-7",
+      "visitor": "G217",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-7"
+    },
+    {
+      "id": "E21-8",
+      "visitor": "G218",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E21-9",
+      "visitor": "G219",
+      "shop": "北门",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V21-9"
+    },
+    {
+      "id": "E22-0",
+      "visitor": "G220",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E22-1",
+      "visitor": "G221",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-1"
+    },
+    {
+      "id": "E22-2",
+      "visitor": "G222",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-2"
+    },
+    {
+      "id": "E22-3",
+      "visitor": "G223",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-3"
+    },
+    {
+      "id": "E22-4",
+      "visitor": "G224",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E22-5",
+      "visitor": "G225",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-5"
+    },
+    {
+      "id": "E22-6",
+      "visitor": "G226",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-6"
+    },
+    {
+      "id": "E22-7",
+      "visitor": "G227",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-7"
+    },
+    {
+      "id": "E22-8",
+      "visitor": "G228",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E22-9",
+      "visitor": "G229",
+      "shop": "西柜",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V22-9"
+    },
+    {
+      "id": "E23-0",
+      "visitor": "G230",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E23-1",
+      "visitor": "G231",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-1"
+    },
+    {
+      "id": "E23-2",
+      "visitor": "G232",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-2"
+    },
+    {
+      "id": "E23-3",
+      "visitor": "G233",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-3"
+    },
+    {
+      "id": "E23-4",
+      "visitor": "G234",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E23-5",
+      "visitor": "G235",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-5"
+    },
+    {
+      "id": "E23-6",
+      "visitor": "G236",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-6"
+    },
+    {
+      "id": "E23-7",
+      "visitor": "G237",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-7"
+    },
+    {
+      "id": "E23-8",
+      "visitor": "G238",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E23-9",
+      "visitor": "G239",
+      "shop": "联营",
+      "on": "2026-08-06",
+      "eligible": true,
+      "voucher": "V23-9"
+    },
+    {
+      "id": "E24-0",
+      "visitor": "G240",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E24-1",
+      "visitor": "G241",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-1"
+    },
+    {
+      "id": "E24-2",
+      "visitor": "G242",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-2"
+    },
+    {
+      "id": "E24-3",
+      "visitor": "G243",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-3"
+    },
+    {
+      "id": "E24-4",
+      "visitor": "G244",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E24-5",
+      "visitor": "G245",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-5"
+    },
+    {
+      "id": "E24-6",
+      "visitor": "G246",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-6"
+    },
+    {
+      "id": "E24-7",
+      "visitor": "G247",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-7"
+    },
+    {
+      "id": "E24-8",
+      "visitor": "G248",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E24-9",
+      "visitor": "G249",
+      "shop": "南门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V24-9"
+    },
+    {
+      "id": "E25-0",
+      "visitor": "G250",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E25-1",
+      "visitor": "G251",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-1"
+    },
+    {
+      "id": "E25-2",
+      "visitor": "G252",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-2"
+    },
+    {
+      "id": "E25-3",
+      "visitor": "G253",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-3"
+    },
+    {
+      "id": "E25-4",
+      "visitor": "G254",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E25-5",
+      "visitor": "G255",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-5"
+    },
+    {
+      "id": "E25-6",
+      "visitor": "G256",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-6"
+    },
+    {
+      "id": "E25-7",
+      "visitor": "G257",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-7"
+    },
+    {
+      "id": "E25-8",
+      "visitor": "G258",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E25-9",
+      "visitor": "G259",
+      "shop": "北门",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V25-9"
+    },
+    {
+      "id": "E26-0",
+      "visitor": "G260",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E26-1",
+      "visitor": "G261",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-1"
+    },
+    {
+      "id": "E26-2",
+      "visitor": "G262",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-2"
+    },
+    {
+      "id": "E26-3",
+      "visitor": "G263",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-3"
+    },
+    {
+      "id": "E26-4",
+      "visitor": "G264",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E26-5",
+      "visitor": "G265",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-5"
+    },
+    {
+      "id": "E26-6",
+      "visitor": "G266",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-6"
+    },
+    {
+      "id": "E26-7",
+      "visitor": "G267",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-7"
+    },
+    {
+      "id": "E26-8",
+      "visitor": "G268",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E26-9",
+      "visitor": "G269",
+      "shop": "西柜",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V26-9"
+    },
+    {
+      "id": "E27-0",
+      "visitor": "G270",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E27-1",
+      "visitor": "G271",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-1"
+    },
+    {
+      "id": "E27-2",
+      "visitor": "G272",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-2"
+    },
+    {
+      "id": "E27-3",
+      "visitor": "G273",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-3"
+    },
+    {
+      "id": "E27-4",
+      "visitor": "G274",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E27-5",
+      "visitor": "G275",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-5"
+    },
+    {
+      "id": "E27-6",
+      "visitor": "G276",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-6"
+    },
+    {
+      "id": "E27-7",
+      "visitor": "G277",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-7"
+    },
+    {
+      "id": "E27-8",
+      "visitor": "G278",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E27-9",
+      "visitor": "G279",
+      "shop": "联营",
+      "on": "2026-08-07",
+      "eligible": true,
+      "voucher": "V27-9"
+    },
+    {
+      "id": "E28-0",
+      "visitor": "G280",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E28-1",
+      "visitor": "G281",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-1"
+    },
+    {
+      "id": "E28-2",
+      "visitor": "G282",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-2"
+    },
+    {
+      "id": "E28-3",
+      "visitor": "G283",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-3"
+    },
+    {
+      "id": "E28-4",
+      "visitor": "G284",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E28-5",
+      "visitor": "G285",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-5"
+    },
+    {
+      "id": "E28-6",
+      "visitor": "G286",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-6"
+    },
+    {
+      "id": "E28-7",
+      "visitor": "G287",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-7"
+    },
+    {
+      "id": "E28-8",
+      "visitor": "G288",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E28-9",
+      "visitor": "G289",
+      "shop": "南门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V28-9"
+    },
+    {
+      "id": "E29-0",
+      "visitor": "G290",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E29-1",
+      "visitor": "G291",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-1"
+    },
+    {
+      "id": "E29-2",
+      "visitor": "G292",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-2"
+    },
+    {
+      "id": "E29-3",
+      "visitor": "G293",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-3"
+    },
+    {
+      "id": "E29-4",
+      "visitor": "G294",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E29-5",
+      "visitor": "G295",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-5"
+    },
+    {
+      "id": "E29-6",
+      "visitor": "G296",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-6"
+    },
+    {
+      "id": "E29-7",
+      "visitor": "G297",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-7"
+    },
+    {
+      "id": "E29-8",
+      "visitor": "G298",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E29-9",
+      "visitor": "G299",
+      "shop": "北门",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V29-9"
+    },
+    {
+      "id": "E30-0",
+      "visitor": "G300",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E30-1",
+      "visitor": "G301",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-1"
+    },
+    {
+      "id": "E30-2",
+      "visitor": "G302",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-2"
+    },
+    {
+      "id": "E30-3",
+      "visitor": "G303",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-3"
+    },
+    {
+      "id": "E30-4",
+      "visitor": "G304",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E30-5",
+      "visitor": "G305",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-5"
+    },
+    {
+      "id": "E30-6",
+      "visitor": "G306",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-6"
+    },
+    {
+      "id": "E30-7",
+      "visitor": "G307",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-7"
+    },
+    {
+      "id": "E30-8",
+      "visitor": "G308",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E30-9",
+      "visitor": "G309",
+      "shop": "西柜",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V30-9"
+    },
+    {
+      "id": "E31-0",
+      "visitor": "G310",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E31-1",
+      "visitor": "G311",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-1"
+    },
+    {
+      "id": "E31-2",
+      "visitor": "G312",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-2"
+    },
+    {
+      "id": "E31-3",
+      "visitor": "G313",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-3"
+    },
+    {
+      "id": "E31-4",
+      "visitor": "G314",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E31-5",
+      "visitor": "G315",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-5"
+    },
+    {
+      "id": "E31-6",
+      "visitor": "G316",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-6"
+    },
+    {
+      "id": "E31-7",
+      "visitor": "G317",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-7"
+    },
+    {
+      "id": "E31-8",
+      "visitor": "G318",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": null
+    },
+    {
+      "id": "E31-9",
+      "visitor": "G319",
+      "shop": "联营",
+      "on": "2026-08-08",
+      "eligible": true,
+      "voucher": "V31-9"
+    }
+  ],
+  "vouchers": [
+    {
+      "id": "V0-1",
+      "exposure": "E0-1",
+      "holder": "G1",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V0-2",
+      "exposure": "E0-2",
+      "holder": "G2",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V0-3",
+      "exposure": "E0-3",
+      "holder": "G3",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V0-5",
+      "exposure": "E0-5",
+      "holder": "G5",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V0-6",
+      "exposure": "E0-6",
+      "holder": "G6",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V0-7",
+      "exposure": "E0-7",
+      "holder": "G7",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V0-9",
+      "exposure": "E0-9",
+      "holder": "G9",
+      "shop": "南门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-1",
+      "exposure": "E1-1",
+      "holder": "G11",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-2",
+      "exposure": "E1-2",
+      "holder": "G12",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-3",
+      "exposure": "E1-3",
+      "holder": "G13",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-5",
+      "exposure": "E1-5",
+      "holder": "G15",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-6",
+      "exposure": "E1-6",
+      "holder": "G16",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-7",
+      "exposure": "E1-7",
+      "holder": "G17",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V1-9",
+      "exposure": "E1-9",
+      "holder": "G19",
+      "shop": "北门",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-1",
+      "exposure": "E2-1",
+      "holder": "G21",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-2",
+      "exposure": "E2-2",
+      "holder": "G22",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-3",
+      "exposure": "E2-3",
+      "holder": "G23",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-5",
+      "exposure": "E2-5",
+      "holder": "G25",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-6",
+      "exposure": "E2-6",
+      "holder": "G26",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-7",
+      "exposure": "E2-7",
+      "holder": "G27",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V2-9",
+      "exposure": "E2-9",
+      "holder": "G29",
+      "shop": "西柜",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-1",
+      "exposure": "E3-1",
+      "holder": "G31",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-2",
+      "exposure": "E3-2",
+      "holder": "G32",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-3",
+      "exposure": "E3-3",
+      "holder": "G33",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-5",
+      "exposure": "E3-5",
+      "holder": "G35",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-6",
+      "exposure": "E3-6",
+      "holder": "G36",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-7",
+      "exposure": "E3-7",
+      "holder": "G37",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V3-9",
+      "exposure": "E3-9",
+      "holder": "G39",
+      "shop": "联营",
+      "issued_on": "2026-08-01",
+      "expires_on": "2026-08-04",
+      "quoted": 5500
+    },
+    {
+      "id": "V4-1",
+      "exposure": "E4-1",
+      "holder": "G41",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V4-2",
+      "exposure": "E4-2",
+      "holder": "G42",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V4-3",
+      "exposure": "E4-3",
+      "holder": "G43",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V4-5",
+      "exposure": "E4-5",
+      "holder": "G45",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V4-6",
+      "exposure": "E4-6",
+      "holder": "G46",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V4-7",
+      "exposure": "E4-7",
+      "holder": "G47",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V4-9",
+      "exposure": "E4-9",
+      "holder": "G49",
+      "shop": "南门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-1",
+      "exposure": "E5-1",
+      "holder": "G51",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-2",
+      "exposure": "E5-2",
+      "holder": "G52",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-3",
+      "exposure": "E5-3",
+      "holder": "G53",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-5",
+      "exposure": "E5-5",
+      "holder": "G55",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-6",
+      "exposure": "E5-6",
+      "holder": "G56",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-7",
+      "exposure": "E5-7",
+      "holder": "G57",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V5-9",
+      "exposure": "E5-9",
+      "holder": "G59",
+      "shop": "北门",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-1",
+      "exposure": "E6-1",
+      "holder": "G61",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-2",
+      "exposure": "E6-2",
+      "holder": "G62",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-3",
+      "exposure": "E6-3",
+      "holder": "G63",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-5",
+      "exposure": "E6-5",
+      "holder": "G65",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-6",
+      "exposure": "E6-6",
+      "holder": "G66",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-7",
+      "exposure": "E6-7",
+      "holder": "G67",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V6-9",
+      "exposure": "E6-9",
+      "holder": "G69",
+      "shop": "西柜",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-1",
+      "exposure": "E7-1",
+      "holder": "G71",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-2",
+      "exposure": "E7-2",
+      "holder": "G72",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-3",
+      "exposure": "E7-3",
+      "holder": "G73",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-5",
+      "exposure": "E7-5",
+      "holder": "G75",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-6",
+      "exposure": "E7-6",
+      "holder": "G76",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-7",
+      "exposure": "E7-7",
+      "holder": "G77",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V7-9",
+      "exposure": "E7-9",
+      "holder": "G79",
+      "shop": "联营",
+      "issued_on": "2026-08-02",
+      "expires_on": "2026-08-05",
+      "quoted": 4990
+    },
+    {
+      "id": "V9-1",
+      "exposure": "E9-1",
+      "holder": "G91",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V9-2",
+      "exposure": "E9-2",
+      "holder": "G92",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V9-3",
+      "exposure": "E9-3",
+      "holder": "G93",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V9-5",
+      "exposure": "E9-5",
+      "holder": "G95",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V9-6",
+      "exposure": "E9-6",
+      "holder": "G96",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V9-7",
+      "exposure": "E9-7",
+      "holder": "G97",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V9-9",
+      "exposure": "E9-9",
+      "holder": "G99",
+      "shop": "北门",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-1",
+      "exposure": "E10-1",
+      "holder": "G101",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-2",
+      "exposure": "E10-2",
+      "holder": "G102",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-3",
+      "exposure": "E10-3",
+      "holder": "G103",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-5",
+      "exposure": "E10-5",
+      "holder": "G105",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-6",
+      "exposure": "E10-6",
+      "holder": "G106",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-7",
+      "exposure": "E10-7",
+      "holder": "G107",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V10-9",
+      "exposure": "E10-9",
+      "holder": "G109",
+      "shop": "西柜",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-1",
+      "exposure": "E11-1",
+      "holder": "G111",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-2",
+      "exposure": "E11-2",
+      "holder": "G112",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-3",
+      "exposure": "E11-3",
+      "holder": "G113",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-5",
+      "exposure": "E11-5",
+      "holder": "G115",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-6",
+      "exposure": "E11-6",
+      "holder": "G116",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-7",
+      "exposure": "E11-7",
+      "holder": "G117",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V11-9",
+      "exposure": "E11-9",
+      "holder": "G119",
+      "shop": "联营",
+      "issued_on": "2026-08-03",
+      "expires_on": "2026-08-06",
+      "quoted": 5500
+    },
+    {
+      "id": "V12-1",
+      "exposure": "E12-1",
+      "holder": "G121",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V12-2",
+      "exposure": "E12-2",
+      "holder": "G122",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V12-3",
+      "exposure": "E12-3",
+      "holder": "G123",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V12-5",
+      "exposure": "E12-5",
+      "holder": "G125",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V12-6",
+      "exposure": "E12-6",
+      "holder": "G126",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V12-7",
+      "exposure": "E12-7",
+      "holder": "G127",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V12-9",
+      "exposure": "E12-9",
+      "holder": "G129",
+      "shop": "南门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-1",
+      "exposure": "E13-1",
+      "holder": "G131",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-2",
+      "exposure": "E13-2",
+      "holder": "G132",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-3",
+      "exposure": "E13-3",
+      "holder": "G133",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-5",
+      "exposure": "E13-5",
+      "holder": "G135",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-6",
+      "exposure": "E13-6",
+      "holder": "G136",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-7",
+      "exposure": "E13-7",
+      "holder": "G137",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V13-9",
+      "exposure": "E13-9",
+      "holder": "G139",
+      "shop": "北门",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-1",
+      "exposure": "E14-1",
+      "holder": "G141",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-2",
+      "exposure": "E14-2",
+      "holder": "G142",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-3",
+      "exposure": "E14-3",
+      "holder": "G143",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-5",
+      "exposure": "E14-5",
+      "holder": "G145",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-6",
+      "exposure": "E14-6",
+      "holder": "G146",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-7",
+      "exposure": "E14-7",
+      "holder": "G147",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V14-9",
+      "exposure": "E14-9",
+      "holder": "G149",
+      "shop": "西柜",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-1",
+      "exposure": "E15-1",
+      "holder": "G151",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-2",
+      "exposure": "E15-2",
+      "holder": "G152",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-3",
+      "exposure": "E15-3",
+      "holder": "G153",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-5",
+      "exposure": "E15-5",
+      "holder": "G155",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-6",
+      "exposure": "E15-6",
+      "holder": "G156",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-7",
+      "exposure": "E15-7",
+      "holder": "G157",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V15-9",
+      "exposure": "E15-9",
+      "holder": "G159",
+      "shop": "联营",
+      "issued_on": "2026-08-04",
+      "expires_on": "2026-08-07",
+      "quoted": 4990
+    },
+    {
+      "id": "V16-1",
+      "exposure": "E16-1",
+      "holder": "G161",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V16-2",
+      "exposure": "E16-2",
+      "holder": "G162",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V16-3",
+      "exposure": "E16-3",
+      "holder": "G163",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V16-5",
+      "exposure": "E16-5",
+      "holder": "G165",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V16-6",
+      "exposure": "E16-6",
+      "holder": "G166",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V16-7",
+      "exposure": "E16-7",
+      "holder": "G167",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V16-9",
+      "exposure": "E16-9",
+      "holder": "G169",
+      "shop": "南门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-1",
+      "exposure": "E17-1",
+      "holder": "G171",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-2",
+      "exposure": "E17-2",
+      "holder": "G172",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-3",
+      "exposure": "E17-3",
+      "holder": "G173",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-5",
+      "exposure": "E17-5",
+      "holder": "G175",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-6",
+      "exposure": "E17-6",
+      "holder": "G176",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-7",
+      "exposure": "E17-7",
+      "holder": "G177",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V17-9",
+      "exposure": "E17-9",
+      "holder": "G179",
+      "shop": "北门",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-1",
+      "exposure": "E18-1",
+      "holder": "G181",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-2",
+      "exposure": "E18-2",
+      "holder": "G182",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-3",
+      "exposure": "E18-3",
+      "holder": "G183",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-5",
+      "exposure": "E18-5",
+      "holder": "G185",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-6",
+      "exposure": "E18-6",
+      "holder": "G186",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-7",
+      "exposure": "E18-7",
+      "holder": "G187",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V18-9",
+      "exposure": "E18-9",
+      "holder": "G189",
+      "shop": "西柜",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-1",
+      "exposure": "E19-1",
+      "holder": "G191",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-2",
+      "exposure": "E19-2",
+      "holder": "G192",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-3",
+      "exposure": "E19-3",
+      "holder": "G193",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-5",
+      "exposure": "E19-5",
+      "holder": "G195",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-6",
+      "exposure": "E19-6",
+      "holder": "G196",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-7",
+      "exposure": "E19-7",
+      "holder": "G197",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V19-9",
+      "exposure": "E19-9",
+      "holder": "G199",
+      "shop": "联营",
+      "issued_on": "2026-08-05",
+      "expires_on": "2026-08-08",
+      "quoted": 5500
+    },
+    {
+      "id": "V20-1",
+      "exposure": "E20-1",
+      "holder": "G201",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V20-2",
+      "exposure": "E20-2",
+      "holder": "G202",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V20-3",
+      "exposure": "E20-3",
+      "holder": "G203",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V20-5",
+      "exposure": "E20-5",
+      "holder": "G205",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V20-6",
+      "exposure": "E20-6",
+      "holder": "G206",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V20-7",
+      "exposure": "E20-7",
+      "holder": "G207",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V20-9",
+      "exposure": "E20-9",
+      "holder": "G209",
+      "shop": "南门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-1",
+      "exposure": "E21-1",
+      "holder": "G211",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-2",
+      "exposure": "E21-2",
+      "holder": "G212",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-3",
+      "exposure": "E21-3",
+      "holder": "G213",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-5",
+      "exposure": "E21-5",
+      "holder": "G215",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-6",
+      "exposure": "E21-6",
+      "holder": "G216",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-7",
+      "exposure": "E21-7",
+      "holder": "G217",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V21-9",
+      "exposure": "E21-9",
+      "holder": "G219",
+      "shop": "北门",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-1",
+      "exposure": "E22-1",
+      "holder": "G221",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-2",
+      "exposure": "E22-2",
+      "holder": "G222",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-3",
+      "exposure": "E22-3",
+      "holder": "G223",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-5",
+      "exposure": "E22-5",
+      "holder": "G225",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-6",
+      "exposure": "E22-6",
+      "holder": "G226",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-7",
+      "exposure": "E22-7",
+      "holder": "G227",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V22-9",
+      "exposure": "E22-9",
+      "holder": "G229",
+      "shop": "西柜",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-1",
+      "exposure": "E23-1",
+      "holder": "G231",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-2",
+      "exposure": "E23-2",
+      "holder": "G232",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-3",
+      "exposure": "E23-3",
+      "holder": "G233",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-5",
+      "exposure": "E23-5",
+      "holder": "G235",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-6",
+      "exposure": "E23-6",
+      "holder": "G236",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-7",
+      "exposure": "E23-7",
+      "holder": "G237",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V23-9",
+      "exposure": "E23-9",
+      "holder": "G239",
+      "shop": "联营",
+      "issued_on": "2026-08-06",
+      "expires_on": "2026-08-09",
+      "quoted": 4990
+    },
+    {
+      "id": "V24-1",
+      "exposure": "E24-1",
+      "holder": "G241",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V24-2",
+      "exposure": "E24-2",
+      "holder": "G242",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V24-3",
+      "exposure": "E24-3",
+      "holder": "G243",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V24-5",
+      "exposure": "E24-5",
+      "holder": "G245",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V24-6",
+      "exposure": "E24-6",
+      "holder": "G246",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V24-7",
+      "exposure": "E24-7",
+      "holder": "G247",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V24-9",
+      "exposure": "E24-9",
+      "holder": "G249",
+      "shop": "南门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-1",
+      "exposure": "E25-1",
+      "holder": "G251",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-2",
+      "exposure": "E25-2",
+      "holder": "G252",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-3",
+      "exposure": "E25-3",
+      "holder": "G253",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-5",
+      "exposure": "E25-5",
+      "holder": "G255",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-6",
+      "exposure": "E25-6",
+      "holder": "G256",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-7",
+      "exposure": "E25-7",
+      "holder": "G257",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V25-9",
+      "exposure": "E25-9",
+      "holder": "G259",
+      "shop": "北门",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-1",
+      "exposure": "E26-1",
+      "holder": "G261",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-2",
+      "exposure": "E26-2",
+      "holder": "G262",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-3",
+      "exposure": "E26-3",
+      "holder": "G263",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-5",
+      "exposure": "E26-5",
+      "holder": "G265",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-6",
+      "exposure": "E26-6",
+      "holder": "G266",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-7",
+      "exposure": "E26-7",
+      "holder": "G267",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V26-9",
+      "exposure": "E26-9",
+      "holder": "G269",
+      "shop": "西柜",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-1",
+      "exposure": "E27-1",
+      "holder": "G271",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-2",
+      "exposure": "E27-2",
+      "holder": "G272",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-3",
+      "exposure": "E27-3",
+      "holder": "G273",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-5",
+      "exposure": "E27-5",
+      "holder": "G275",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-6",
+      "exposure": "E27-6",
+      "holder": "G276",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-7",
+      "exposure": "E27-7",
+      "holder": "G277",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V27-9",
+      "exposure": "E27-9",
+      "holder": "G279",
+      "shop": "联营",
+      "issued_on": "2026-08-07",
+      "expires_on": "2026-08-10",
+      "quoted": 5500
+    },
+    {
+      "id": "V28-1",
+      "exposure": "E28-1",
+      "holder": "G281",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V28-2",
+      "exposure": "E28-2",
+      "holder": "G282",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V28-3",
+      "exposure": "E28-3",
+      "holder": "G283",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V28-5",
+      "exposure": "E28-5",
+      "holder": "G285",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V28-6",
+      "exposure": "E28-6",
+      "holder": "G286",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V28-7",
+      "exposure": "E28-7",
+      "holder": "G287",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V28-9",
+      "exposure": "E28-9",
+      "holder": "G289",
+      "shop": "南门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-1",
+      "exposure": "E29-1",
+      "holder": "G291",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-2",
+      "exposure": "E29-2",
+      "holder": "G292",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-3",
+      "exposure": "E29-3",
+      "holder": "G293",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-5",
+      "exposure": "E29-5",
+      "holder": "G295",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-6",
+      "exposure": "E29-6",
+      "holder": "G296",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-7",
+      "exposure": "E29-7",
+      "holder": "G297",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V29-9",
+      "exposure": "E29-9",
+      "holder": "G299",
+      "shop": "北门",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-1",
+      "exposure": "E30-1",
+      "holder": "G301",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-2",
+      "exposure": "E30-2",
+      "holder": "G302",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-3",
+      "exposure": "E30-3",
+      "holder": "G303",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-5",
+      "exposure": "E30-5",
+      "holder": "G305",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-6",
+      "exposure": "E30-6",
+      "holder": "G306",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-7",
+      "exposure": "E30-7",
+      "holder": "G307",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V30-9",
+      "exposure": "E30-9",
+      "holder": "G309",
+      "shop": "西柜",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-1",
+      "exposure": "E31-1",
+      "holder": "G311",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-2",
+      "exposure": "E31-2",
+      "holder": "G312",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-3",
+      "exposure": "E31-3",
+      "holder": "G313",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-5",
+      "exposure": "E31-5",
+      "holder": "G315",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-6",
+      "exposure": "E31-6",
+      "holder": "G316",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-7",
+      "exposure": "E31-7",
+      "holder": "G317",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    },
+    {
+      "id": "V31-9",
+      "exposure": "E31-9",
+      "holder": "G319",
+      "shop": "联营",
+      "issued_on": "2026-08-08",
+      "expires_on": "2026-08-11",
+      "quoted": 4990
+    }
+  ],
+  "receipts": [
+    {
+      "id": "C0-1",
+      "voucher": "V0-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C0-2",
+      "voucher": "V0-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C0-5",
+      "voucher": "V0-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C0-7",
+      "voucher": "V0-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": "2026-08-05",
+      "cost": 1890
+    },
+    {
+      "id": "C1-1",
+      "voucher": "V1-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C1-2",
+      "voucher": "V1-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C1-5",
+      "voucher": "V1-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C1-7",
+      "voucher": "V1-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": "2026-08-05",
+      "cost": 1890
+    },
+    {
+      "id": "C2-1",
+      "voucher": "V2-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C2-2",
+      "voucher": "V2-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C2-5",
+      "voucher": "V2-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C2-7",
+      "voucher": "V2-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": "2026-08-05",
+      "cost": 1890
+    },
+    {
+      "id": "C3-1",
+      "voucher": "V3-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C3-2",
+      "voucher": "V3-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C3-5",
+      "voucher": "V3-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C3-7",
+      "voucher": "V3-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-02",
+      "paid": 5500,
+      "refund_on": "2026-08-05",
+      "cost": 1890
+    },
+    {
+      "id": "C4-1",
+      "voucher": "V4-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C4-2",
+      "voucher": "V4-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C4-5",
+      "voucher": "V4-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C4-7",
+      "voucher": "V4-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": "2026-08-06",
+      "cost": 1890
+    },
+    {
+      "id": "C5-1",
+      "voucher": "V5-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C5-2",
+      "voucher": "V5-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C5-5",
+      "voucher": "V5-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C5-7",
+      "voucher": "V5-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": "2026-08-06",
+      "cost": 1890
+    },
+    {
+      "id": "C6-1",
+      "voucher": "V6-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C6-2",
+      "voucher": "V6-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C6-5",
+      "voucher": "V6-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C6-7",
+      "voucher": "V6-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": "2026-08-06",
+      "cost": 1890
+    },
+    {
+      "id": "C7-1",
+      "voucher": "V7-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C7-2",
+      "voucher": "V7-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C7-5",
+      "voucher": "V7-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C7-7",
+      "voucher": "V7-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-03",
+      "paid": 4990,
+      "refund_on": "2026-08-06",
+      "cost": 1890
+    },
+    {
+      "id": "C9-1",
+      "voucher": "V9-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C9-2",
+      "voucher": "V9-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C9-5",
+      "voucher": "V9-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C9-7",
+      "voucher": "V9-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": "2026-08-07",
+      "cost": 1890
+    },
+    {
+      "id": "C10-1",
+      "voucher": "V10-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C10-2",
+      "voucher": "V10-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C10-5",
+      "voucher": "V10-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C10-7",
+      "voucher": "V10-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": "2026-08-07",
+      "cost": 1890
+    },
+    {
+      "id": "C11-1",
+      "voucher": "V11-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C11-2",
+      "voucher": "V11-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C11-5",
+      "voucher": "V11-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C11-7",
+      "voucher": "V11-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-04",
+      "paid": 5500,
+      "refund_on": "2026-08-07",
+      "cost": 1890
+    },
+    {
+      "id": "C12-1",
+      "voucher": "V12-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C12-2",
+      "voucher": "V12-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C12-5",
+      "voucher": "V12-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C12-7",
+      "voucher": "V12-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": "2026-08-08",
+      "cost": 1890
+    },
+    {
+      "id": "C13-1",
+      "voucher": "V13-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C13-2",
+      "voucher": "V13-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C13-5",
+      "voucher": "V13-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 1890
+    },
+    {
+      "id": "C13-7",
+      "voucher": "V13-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": "2026-08-08",
+      "cost": 1890
+    },
+    {
+      "id": "C14-1",
+      "voucher": "V14-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C14-2",
+      "voucher": "V14-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C14-5",
+      "voucher": "V14-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C14-7",
+      "voucher": "V14-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": "2026-08-08",
+      "cost": 2400
+    },
+    {
+      "id": "C15-1",
+      "voucher": "V15-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C15-2",
+      "voucher": "V15-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C15-5",
+      "voucher": "V15-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C15-7",
+      "voucher": "V15-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-05",
+      "paid": 4990,
+      "refund_on": "2026-08-08",
+      "cost": 2400
+    },
+    {
+      "id": "C16-1",
+      "voucher": "V16-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C16-2",
+      "voucher": "V16-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C16-5",
+      "voucher": "V16-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C16-7",
+      "voucher": "V16-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": "2026-08-09",
+      "cost": 2400
+    },
+    {
+      "id": "C17-1",
+      "voucher": "V17-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C17-2",
+      "voucher": "V17-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C17-5",
+      "voucher": "V17-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C17-7",
+      "voucher": "V17-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": "2026-08-09",
+      "cost": 2400
+    },
+    {
+      "id": "C18-1",
+      "voucher": "V18-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C18-2",
+      "voucher": "V18-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C18-5",
+      "voucher": "V18-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C18-7",
+      "voucher": "V18-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": "2026-08-09",
+      "cost": 2400
+    },
+    {
+      "id": "C19-1",
+      "voucher": "V19-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C19-2",
+      "voucher": "V19-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C19-5",
+      "voucher": "V19-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C19-7",
+      "voucher": "V19-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-06",
+      "paid": 5500,
+      "refund_on": "2026-08-09",
+      "cost": 2400
+    },
+    {
+      "id": "C20-1",
+      "voucher": "V20-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C20-2",
+      "voucher": "V20-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C20-5",
+      "voucher": "V20-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C20-7",
+      "voucher": "V20-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": "2026-08-10",
+      "cost": 2400
+    },
+    {
+      "id": "C21-1",
+      "voucher": "V21-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C21-2",
+      "voucher": "V21-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C21-5",
+      "voucher": "V21-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C21-7",
+      "voucher": "V21-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": "2026-08-10",
+      "cost": 2400
+    },
+    {
+      "id": "C22-1",
+      "voucher": "V22-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C22-2",
+      "voucher": "V22-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C22-5",
+      "voucher": "V22-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C22-7",
+      "voucher": "V22-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": "2026-08-10",
+      "cost": 2400
+    },
+    {
+      "id": "C23-1",
+      "voucher": "V23-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C23-2",
+      "voucher": "V23-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C23-5",
+      "voucher": "V23-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C23-7",
+      "voucher": "V23-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-07",
+      "paid": 4990,
+      "refund_on": "2026-08-10",
+      "cost": 2400
+    },
+    {
+      "id": "C24-1",
+      "voucher": "V24-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C24-2",
+      "voucher": "V24-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C24-5",
+      "voucher": "V24-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C24-7",
+      "voucher": "V24-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": "2026-08-11",
+      "cost": 2400
+    },
+    {
+      "id": "C25-1",
+      "voucher": "V25-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C25-2",
+      "voucher": "V25-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C25-5",
+      "voucher": "V25-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C25-7",
+      "voucher": "V25-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": "2026-08-11",
+      "cost": 2400
+    },
+    {
+      "id": "C26-1",
+      "voucher": "V26-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C26-2",
+      "voucher": "V26-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C26-5",
+      "voucher": "V26-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C26-7",
+      "voucher": "V26-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": "2026-08-11",
+      "cost": 2400
+    },
+    {
+      "id": "C27-1",
+      "voucher": "V27-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C27-2",
+      "voucher": "V27-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C27-5",
+      "voucher": "V27-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C27-7",
+      "voucher": "V27-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-08",
+      "paid": 5500,
+      "refund_on": "2026-08-11",
+      "cost": 2400
+    },
+    {
+      "id": "C28-1",
+      "voucher": "V28-1",
+      "shop": "南门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C28-2",
+      "voucher": "V28-2",
+      "shop": "北门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C28-5",
+      "voucher": "V28-5",
+      "shop": "南门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C28-7",
+      "voucher": "V28-7",
+      "shop": "南门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": "2026-08-12",
+      "cost": 2400
+    },
+    {
+      "id": "C29-1",
+      "voucher": "V29-1",
+      "shop": "北门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C29-2",
+      "voucher": "V29-2",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C29-5",
+      "voucher": "V29-5",
+      "shop": "北门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C29-7",
+      "voucher": "V29-7",
+      "shop": "北门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": "2026-08-12",
+      "cost": 2400
+    },
+    {
+      "id": "C30-1",
+      "voucher": "V30-1",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C30-2",
+      "voucher": "V30-2",
+      "shop": "联营",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C30-5",
+      "voucher": "V30-5",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C30-7",
+      "voucher": "V30-7",
+      "shop": "西柜",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": "2026-08-12",
+      "cost": 2400
+    },
+    {
+      "id": "C31-1",
+      "voucher": "V31-1",
+      "shop": "联营",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C31-2",
+      "voucher": "V31-2",
+      "shop": "南门",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C31-5",
+      "voucher": "V31-5",
+      "shop": "联营",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": null,
+      "cost": 2400
+    },
+    {
+      "id": "C31-7",
+      "voucher": "V31-7",
+      "shop": "联营",
+      "redeemed_on": "2026-08-09",
+      "paid": 4990,
+      "refund_on": "2026-08-12",
+      "cost": 2400
+    }
+  ],
+  "interruptions": [
+    {
+      "shop": "南门",
+      "on": "2026-08-03",
+      "reason": "暂停新券"
+    },
+    {
+      "shop": "南门",
+      "on": "2026-08-04",
+      "reason": "分配重叠"
+    }
+  ],
+  "settings": [
+    {
+      "through": "2026-08-09",
+      "refund_days": 4,
+      "min_gain": 150,
+      "max_redemption_cost": 2150
+    }
+  ],
+  "actions": [
+    {
+      "shop": "南门",
+      "action": "停止发新券",
+      "starts": "2026-08-05",
+      "confirmed_on": "2026-08-04"
+    }
+  ]
+}
